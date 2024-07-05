@@ -1,0 +1,6 @@
+This file contains special characters for testing:
+! @ # $ % ^ & * ( ) _ + - = { } [ ] ; : ' " < > , . ? / \ | ` ~
+1234567890
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nullam vitae metus ac nisi sagittis interdum.
+Sed commodo velit eget tincidunt luctus.

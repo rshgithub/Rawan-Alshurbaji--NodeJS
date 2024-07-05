@@ -1,0 +1,3 @@
+Hello world! This is a short file.
+Only a few words are here.
+Test for edge cases like empty files or files that do not exist.
